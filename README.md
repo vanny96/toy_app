@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is the ["Toy APP"](https://www.theodinproject.com/courses/ruby-on-rails/lessons/getting-your-feet-wet) project from the "The Odin Project" course.
+Here I followed step by step [the tutorial](https://www.railstutorial.org/book/toy_app) in order to get my feet wet in the Ruby on Rails enviroment.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## HEROKU link:
+https://ancient-waters-91421.herokuapp.com/
